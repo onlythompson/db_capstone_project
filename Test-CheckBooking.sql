@@ -1,0 +1,1 @@
+CALL CheckBooking('2022-10-12', 3)
